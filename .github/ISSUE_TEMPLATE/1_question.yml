@@ -18,8 +18,8 @@ body:
         Thank you for keeping our issue tracker clean!
   - type: checkboxes
     id: terms
-    label: No questions answered here
     attributes:
+      label: No questions answered here
       options:
         - label: I understand that no quesions will be answered on this issue tracker
           required: true
