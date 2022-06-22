@@ -16,3 +16,9 @@ body:
         [forum](https://groups.google.com/forum/?fromgroups=#!forum/jacoco).
 
         Thank you for keeping our issue tracker clean!
+  - type: checkboxes
+    id: terms
+    attributes:
+      options:
+        - label: I understand that no quesions will be answered on this issue tracker
+          required: true
